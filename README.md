@@ -29,7 +29,7 @@ TCP connection with 10.10.10.2 was established in 51 msec
 TCP connection with 10.10.10.2 was established in 63 msec
 TCP connection with 10.10.10.2 was established in 73 msec
 ====================
-Average handshake complete time was 56.6 msec
+Average handshake complete time was 56 msec
 
 ```
 
